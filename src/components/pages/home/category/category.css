@@ -1,0 +1,6 @@
+.cardbox{
+    width: 15rem;
+    border-radius: 3px;
+    box-sizing: border-box;
+    box-shadow: 0px 0px 0px 10px white;
+}

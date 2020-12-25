@@ -1,0 +1,21 @@
+.carosel_img1{
+    background-image: url('../../../../images/homeslide1.jpg');
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.carosel_img2{
+    background-image: url('../../../../images/homeslide2.png');
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.carosel_img3{
+    background-image: url('../../../../images/homeslide3.jpeg');
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
